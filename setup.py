@@ -23,7 +23,6 @@ setup(
     packages=find_packages(include=["aos"]),
     include_package_data=True,
     python_requires=">=3.6",
-    install_requires=REQUIRES,
     license="Proprietary",
     keywords="apstra",
 )
