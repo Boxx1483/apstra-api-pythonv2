@@ -12,7 +12,6 @@ NAME = "apstra-api-python"
 VERSION = '0.2.1'
 
 
-REQUIRES = (["requests==2.24.0"],)
 
 setup(
     name=NAME,
